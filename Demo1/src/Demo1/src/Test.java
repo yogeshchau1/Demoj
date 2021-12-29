@@ -1,4 +1,4 @@
-
+package Demo1.src;
 
 public class Test {
 
@@ -10,6 +10,7 @@ public class Test {
 		for(int i=0;i<10;i++)
 		{
 			System.out.println("HELLO");
+			System.out.println("HI");
 		}
 	}
 }
